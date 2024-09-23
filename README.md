@@ -15,7 +15,7 @@
     <strong>⚡ Fun Fact:</strong> I like to think I'm a little lazy! 😄
 </p>
 <br>
-<hr>
+
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
   <a href="https://twitter.com/manassi63116169" target="_blank">
@@ -107,7 +107,6 @@
 </p>
 
 <br>
-<hr>
 
 <h3  align="left">📈 GitHub Stats</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
