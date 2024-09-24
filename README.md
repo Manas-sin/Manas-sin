@@ -29,9 +29,10 @@
 <br>
 <h3 align="left">💻 Languages & Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="transition: transform 0.2s;"/>
-  </a>
+<a href="https://aws.amazon.com" target="_blank" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Badge" width="40" height="40" style="max-width: 100%; transition: transform 0.2s;" />
+</a>
+
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" style="transition: transform 0.2s;"/>
   </a>
