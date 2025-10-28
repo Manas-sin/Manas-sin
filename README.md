@@ -8,7 +8,7 @@
 
 <p align="left" style="font-size: 30px;">💫 About me</p>
 <p align="left" style="font-size: 10px;">
-    <strong>🔭 Currently:</strong> Working at <em>Midas Consulting</em><br><br>
+    <!-- <strong>🔭 Currently:</strong> Working at <em>Midas Consulting</em><br><br> -->
     <strong>🌱 Learning:</strong> MERN, Microservices, AWS<br><br>
     <strong>💬 Ask me about:</strong> Anything tech-related!<br><br>
     <strong>📫 Reach me:</strong> <a href="mailto:manassingh910@gmail.com">manassingh910@gmail.com</a><br><br>
