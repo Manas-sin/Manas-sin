@@ -2,14 +2,14 @@
 <!--   HEADER BANNER                               -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E3A8A&height=220&section=header&text=Manas%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=60&descSize=20" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E3A8A&height=220&section=header&text=Manas%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=60&descSize=22" alt="header banner" />
 </p>
 
 <!-- ============================================= -->
 <!--   TYPING TAGLINE                              -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Full+Stack+Developer;Designing+APIs%2C+Databases+%26+Distributed+Systems;MERN+%7C+Spring+Boot+%7C+Microservices+%7C+AWS;Writing+Code+That+Scales" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Backend+Engineer;Full+Stack+Developer;Frontend+Engineer;DevOps+Engineer;AI+Engineer;Writing+Code+That+Scales" alt="typing tagline" />
 </p>
 
 <!-- ============================================= -->
@@ -25,21 +25,22 @@
 
 ## About Me
 
-I'm a **backend-Developer** who enjoys designing the parts of a system most users never see — APIs, data models, authentication flows, service boundaries, and the quiet infrastructure that keeps everything running. I care about code that is correct first, readable second, and clever only when it has to be.
+I'm a **Backend Engineer** who enjoys designing the parts of a system most users never see — APIs, data models, authentication flows, service boundaries, and the quiet infrastructure that keeps everything running. I care about code that is correct first, readable second, and clever only when it has to be.
 
-My strongest area is the **server side** — designing REST APIs, modeling relational and document databases, and writing services in **Node.js/Express** and **Java/Spring Boot**. I'm comfortable on the frontend with **React** and **Next.js** when a feature needs me to work end-to-end, and I'm actively deepening my knowledge of **microservices**, **AWS**, and **system design**.
+My strongest area is the **server side** — designing REST APIs, modeling relational and document databases, and writing services in **Node.js/Express** and **Java/Spring Boot**. I'm comfortable on the **frontend** with **React** and **Next.js** when a feature needs me to work end-to-end, confident with **DevOps** workflows (AWS, Docker, CI/CD), and actively building with **AI/ML** — integrating LLM APIs, RAG pipelines, and intelligent features into real applications.
 
 ```yaml
-role:          Backend-Focused Full Stack Developer
+role:          Backend Engineer
 location:      India
-primary_stack: [ Node.js, Express, Spring Boot, MongoDB, MySQL ]
-frontend:      [ React, Next.js, TypeScript ]
-cloud_devops:  [ AWS, Git, Docker (learning) ]
+core:          [ Node.js, Express, Spring Boot, MongoDB, MySQL ]
+frontend:      [ React, Next.js, TypeScript, Redux ]
+devops:        [ AWS, Docker, Git, Linux, CI/CD ]
+ai_ml:         [ OpenAI / Anthropic APIs, RAG, Vector DBs, Prompt Engineering ]
 currently:
-  - Deepening microservices & distributed systems
-  - Building on AWS (EC2, S3, Lambda, RDS)
-  - Studying system design patterns
-open_to:       [ Backend Roles, Freelance Projects, Open Source ]
+  - Designing microservices & distributed systems
+  - Building AI-integrated backend features
+  - Deepening AWS (EC2, S3, Lambda, RDS)
+open_to:       [ Backend Roles, AI Engineering, Freelance, Open Source ]
 contact:       manassingh910@gmail.com
 ```
 
@@ -61,6 +62,51 @@ contact:       manassingh910@gmail.com
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
   </a>
 </p>
+
+---
+
+## What I Do
+
+<table align="center">
+  <tr>
+    <td align="center" width="200" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
+      <br><br>
+      <h3>⚙️ BACKEND</h3>
+      <b>Core Strength</b><br>
+      <sub>This is where I live.</sub>
+      <hr>
+      <sub>REST APIs<br>Microservices<br>Database Design<br>Authentication<br>System Architecture</sub>
+    </td>
+    <td align="center" width="200" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
+      <br><br>
+      <h3>🎨 FRONTEND</h3>
+      <b>End-to-End Capable</b><br>
+      <sub>I ship full features.</sub>
+      <hr>
+      <sub>React<br>Next.js<br>TypeScript<br>Redux<br>Tailwind CSS</sub>
+    </td>
+    <td align="center" width="200" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />
+      <br><br>
+      <h3>☁️ DEVOPS</h3>
+      <b>Production Ready</b><br>
+      <sub>I deploy what I build.</sub>
+      <hr>
+      <sub>AWS<br>Docker<br>CI/CD Pipelines<br>Linux<br>Git Workflows</sub>
+    </td>
+    <td align="center" width="200" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
+      <br><br>
+      <h3>🤖 AI / ML</h3>
+      <b>Actively Building</b><br>
+      <sub>Integrating intelligence.</sub>
+      <hr>
+      <sub>LLM APIs<br>RAG Pipelines<br>Vector Databases<br>Prompt Engineering<br>AI-Powered Apps</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -227,23 +273,28 @@ contact:       manassingh910@gmail.com
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
-    <td align="center">MongoDB, MySQL, Oracle</td>
+    <td align="center">MongoDB, MySQL, Oracle, PostgreSQL</td>
     <td align="center">⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td align="center">React, Next.js, Redux, Tailwind</td>
+    <td align="center">React, Next.js, Redux, TypeScript</td>
     <td align="center">⭐⭐⭐⭐</td>
   </tr>
   <tr>
-    <td align="center"><b>Cloud & DevOps</b></td>
-    <td align="center">AWS, Docker, Git, Linux</td>
-    <td align="center">⭐⭐⭐</td>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td align="center">AWS, Docker, Git, Linux, CI/CD</td>
+    <td align="center">⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML Integration</b></td>
+    <td align="center">LLM APIs, RAG, Vector DBs, Prompts</td>
+    <td align="center">⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td align="center"><b>Architecture</b></td>
     <td align="center">Microservices, System Design</td>
-    <td align="center">⭐⭐⭐ (actively learning)</td>
+    <td align="center">⭐⭐⭐</td>
   </tr>
 </table>
 
@@ -258,16 +309,6 @@ contact:       manassingh910@gmail.com
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manas-sin&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
-### Quick Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-First-0A66C2?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1E3A8A" alt="Backend First" />
-  <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=13AA52" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1E5128" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
 
 ---
