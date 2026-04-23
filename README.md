@@ -2,23 +2,23 @@
 <!--   HEADER BANNER                               -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E3A8A&height=220&section=header&text=Manas%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=60&descSize=22" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4C1D95&height=220&section=header&text=Manas%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=60&descSize=22" alt="header banner" />
 </p>
 
 <!-- ============================================= -->
 <!--   TYPING TAGLINE                              -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Backend+Engineer;Full+Stack+Developer;Frontend+Engineer;DevOps+Engineer;AI+Engineer;Writing+Code+That+Scales" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&height=40&lines=Backend+Engineer;Full+Stack+Developer;Frontend+Engineer;DevOps+Engineer;AI+Engineer;Writing+Code+That+Scales" alt="typing tagline" />
 </p>
 
 <!-- ============================================= -->
 <!--   TOP METRICS                                 -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manas-sin&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/manas-sin?label=Followers&style=for-the-badge&color=0A66C2&labelColor=1E3A8A" alt="Followers" />
-  <img src="https://img.shields.io/badge/Based_In-India-0A66C2?style=for-the-badge&labelColor=1E3A8A" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=manas-sin&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/manas-sin?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=4C1D95" alt="Followers" />
+  <img src="https://img.shields.io/badge/Based_In-India-8B5CF6?style=for-the-badge&labelColor=4C1D95" alt="Location" />
 </p>
 
 ---
@@ -337,5 +337,5 @@ contact:       manassingh910@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E3A8A&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4C1D95&height=120&section=footer" alt="footer" />
 </p>
